@@ -7,7 +7,7 @@ prospective university students how to code. On my free time, I enjoy playing ch
 
 Email 📫 cs.taylorngo@gmail.com
 
-💻 [Website](https://www.taylorngo.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/taylor-ngo/) | ⌨️ [Devpost](https://devpost.com/tayylorngo)
+💻 [Website](https://www.taylorngo.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/taylor-ngo/) | 📎 [Resume](https://www.taylorngo.com/src/resumes/taylorngoresume.pdf) | ⌨️ [Devpost](https://devpost.com/tayylorngo)
 
 
 ## Goals & Values
