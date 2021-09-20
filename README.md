@@ -4,13 +4,12 @@ I'm currently an assistant Computer Science Instructor at the <b>Research Founda
 prospective university students how to code. On my free time, I enjoy playing chess, playing table tennis, and traveling.</p>
 
 ## How to reach me
-<pre>
-Email📫: cs.taylorngo@gmail.com
 
-Portfolio Website💻: https://www.taylorngo.com/
+Email 📫 cs.taylorngo@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/taylor-ngo/
-</pre>
+💻 [Website](https://www.taylorngo.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/taylor-ngo/) | ⌨️ [Devpost](https://devpost.com/tayylorngo)
+
+
 ## Goals & Values
 
 <pre>
