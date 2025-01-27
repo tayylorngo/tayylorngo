@@ -1,5 +1,3 @@
-## Hi, I'm Taylor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
-
 ## How to reach me
 
 Email 📫 cs.taylorngo@gmail.com
